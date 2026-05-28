@@ -1,0 +1,12 @@
+{
+  "name": "copy_doctor_to_raw",
+  "properties": {
+    "description": "Copies doctor source data into ADLS raw zone.",
+    "parameters": {
+      "sourceFileName": {
+        "type": "String"
+      }
+    },
+    "activities": []
+  }
+}

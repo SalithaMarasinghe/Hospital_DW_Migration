@@ -1,0 +1,11 @@
+project_name: hospital-admissions-analytics-platform
+environment: dev
+azure_subscription_id: ""
+resource_group: "rg-hospital-dev"
+storage_account: ""
+adls_raw_container: raw
+adls_staged_container: staged
+adls_curated_container: curated
+synapse_workspace: ""
+dbt_target_schema: analytics
+legacy_source_system: hospitaldata

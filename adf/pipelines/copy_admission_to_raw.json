@@ -1,0 +1,12 @@
+{
+  "name": "copy_admission_to_raw",
+  "properties": {
+    "description": "Copies admission source data into ADLS raw zone.",
+    "parameters": {
+      "sourceTableName": {
+        "type": "String"
+      }
+    },
+    "activities": []
+  }
+}

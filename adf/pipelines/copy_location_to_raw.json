@@ -1,0 +1,12 @@
+{
+  "name": "copy_location_to_raw",
+  "properties": {
+    "description": "Copies location source data into ADLS raw zone.",
+    "parameters": {
+      "sourceFileName": {
+        "type": "String"
+      }
+    },
+    "activities": []
+  }
+}

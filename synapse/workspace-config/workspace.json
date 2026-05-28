@@ -1,0 +1,5 @@
+{
+  "workspaceName": "hospital-admissions-synapse",
+  "environment": "dev",
+  "resourceGroup": "rg-hospital-dev"
+}

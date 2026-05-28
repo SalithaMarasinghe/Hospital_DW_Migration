@@ -1,0 +1,12 @@
+{
+  "name": "copy_patient_to_raw",
+  "properties": {
+    "description": "Copies patient source data into ADLS raw zone.",
+    "parameters": {
+      "sourceFileName": {
+        "type": "String"
+      }
+    },
+    "activities": []
+  }
+}
