@@ -37,4 +37,4 @@ This repository contains the design, implementation, and validation assets for m
 - `evidence/05-final/`
 
 ## Working principle
-Treat the ADRs as the source of truth for design behavior. Use the implementation plan to sequence work, and store proof of execution and validation in the evidence folders.
+Treat the ADRs as the source of truth for design behavior. Use the implementation plan to sequence work, and store proof of execution and validation in the evidence folders.Lock the design sources. Treat docs/03-target-state/adr/ as the immutable source of truth, and stop editing architecture behavior outside those ADRs unless a formal change is needed.
